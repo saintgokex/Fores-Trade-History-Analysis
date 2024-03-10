@@ -17,6 +17,7 @@ The data was meticulously extracted from my MetaTrader 5 trading history and met
 5. Most profitable pair(s)
 
 ## Dashboard
+![dashboard](https://github.com/saintgokex/Fores-Trade-History-Analysis/blob/d86b2cd243a38bf1e9feb227537ed6726acb0b99/My%20fx%20data.jpg)
 
 ## Insights
 
