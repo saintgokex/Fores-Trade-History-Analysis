@@ -1,0 +1,1 @@
+# Fores-Trade-History-Analysis
