@@ -1,4 +1,4 @@
-# Fores-Trade-History-Analysis
+# Forex-Trade-History-Analysis
 
 ## Introduction
 
